@@ -6,43 +6,62 @@
    </div>
    
 2. Pengaturan Bahasa
-![alt text] (https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/ketiga.jpg?raw=true)
-Pilih bahasa yang diinginkan untuk instalasi (misalnya, "Bahasa Indonesia" atau "English") dan klik "Continue".
+   <div align="center">
+   <img src=  "https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/ketiga.jpg" alt="Deskripsi Gambar" width= "1000"/> 
+   </div> 
+   Pilih bahasa yang diinginkan untuk instalasi (misalnya, "Bahasa Indonesia" atau "English") dan klik "Continue".
 
 3.Koneksi Internet:
 Jika tersedia, hubungkan ke jaringan Wi-Fi atau kabel Ethernet. Koneksi internet diperlukan untuk mengunduh pembaruan selama instalasi, namun ini bisa dilewati dan dilakukan nanti.
-![alt text] (https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/keempat.jpg?raw=true)
+<div align="center"
+<img src="https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/keempat.jpg" alt="Deskripsi Gambar" width="1000"/>
+</div>
 
 4. Pilih tata letak keyboard yang sesuai. Jika ragu, pilih "English (US)". Klik "Continue".
-![alt text] (https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/ketiga.jpg?raw=true)
+  <div align="center">
+   <img src=  "https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/ketiga.jpg" alt="Deskripsi Gambar" width= "1000"/> 
+   </div> 
+   Pilih bahasa yang diinginkan untuk instalasi (misalnya, "Bahasa Indonesia" atau "English") dan klik "Continue".
 
 5. Pilih jenis instalasi. Anda dapat memilih:
 -Normal Installation: Menyertakan angkat lunak standar seperti browser, editor teks, dll.
 -Minimal Installation: Hanya menyertakan perangkat lunak dasar seperti browser dan utilitas sistem.
-![alt text] (https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/kelima.jpg!raw=true)
+<div align="center">
+   <img src=  "https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/kelima.jpg" alt="Deskripsi Gambar" width= "1000"/> 
+   </div> 
 
 6. Pilih metode partisi:
 Erase disk and install Ubuntu: Menghapus semua data di disk dan menginstal Ubuntu sebagai satu-satunya sistem operasi.
 Install Ubuntu alongside existing OS: Dual-boot dengan sistem operasi yang sudah ada.
 Something else: Opsi lanjutan untuk mengatur partisi manual.
  Pilih opsi yang sesuai dan klik "Install Now".
-![alt text] (https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/keenam.jpg?raw=true)
+ <div align="center">
+   <img src=  "https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/keenam.jpg" alt="Deskripsi Gambar" width= "1000"/> 
+   </div> 
+
 
 7.	Pengaturan Zona Waktu:
  Pilih zona waktu Anda pada peta atau masukkan kota Anda. Klik "Continue".
-![alt text] (https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/kedua.jpg?raw=true)
+ <div align="center">
+   <img src=  "https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/kedua.jpg" alt="Deskripsi Gambar" width= "1000"/> 
+   </div> 
 
 8.Pengaturan Pengguna:
 Masukkan nama Anda, nama komputer, nama pengguna, dan kata sandi. Opsi "Log in automatically" dapat dipilih jika Anda ingin langsung masuk tanpa memasukkan kata sandi setiap kali. Klik "Continue".
 Proses Instalasi:
 Ubuntu akan mulai menginstal sistem operasi. Proses ini bisa memakan waktu beberapa menit hingga lebih dari setengah jam, tergantung pada kecepatan komputer.
 Selesai dan Restart:
-![alt text] (https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/ketujuh.jpg?raw=true)
-
+<div align="center">
+   <img src=  "https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/ketujuh.jpg" alt="Deskripsi Gambar" width= "1000"/> 
+   </div> 
 9. Selanjutnya akan muncul tampilan seperti dibawah ini yang menandakan ubuntu sudah bisa dijalankan
-![alt text] (https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/VirtualBox_Ubuntu%2024.04_29_08_2024_15_42_19.png?raw=true)
-![alt  text] (https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/VirtualBox_Ubuntu%2024.04_29_08_2024_15_25_40.png?raw=true)
-
+ <div align="center">
+   <img src=  "https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/VirtualBox_Ubuntu%2024.04_29_08_2024_15_42_19.png" alt="Deskripsi Gambar" width= "1000"/> 
+   </div> 
+   ini merupakan tampilan gui dari ubuntu
+  <div align="center">
+   <img src=  "https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/VirtualBox_Ubuntu%2024.04_29_08_2024_15_25_40.png" alt="Deskripsi Gambar" width= "1000"/> 
+   </div>  
 # Tugas 2
 •	Mengapa saat instalasi perlu dipilih “/” pada opsi Mount Point??
 karena pada opsi tersebut saat memilih”/” tersebut kita akan tahu installer di mana sistem operasi utama (termasuk kernel, sistem file, dan aplikasi inti) akan diinstal.
