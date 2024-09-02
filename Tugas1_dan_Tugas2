@@ -1,8 +1,10 @@
 # Tugas 1
 •	Proses  Memulai Instalasi Ubuntu :
 1.	Setelah melakukan proses booting, Anda akan melihat menu dengan opsi seperti "Try Ubuntu" dan 1"Install Ubuntu". Pilih "Install Ubuntu" untuk melanjutkan instalasi.
-![alt text] (https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/Pertama.jpg?raw=true)
-
+  <div align="center">
+  <img src="https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/Pertama.jpg" alt="Deskripsi Gambar" width="1000"/>
+   </div>
+   
 2. Pengaturan Bahasa
 ![alt text] (https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/ketiga.jpg?raw=true)
 Pilih bahasa yang diinginkan untuk instalasi (misalnya, "Bahasa Indonesia" atau "English") dan klik "Continue".
