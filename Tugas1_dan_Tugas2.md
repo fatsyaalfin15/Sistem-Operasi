@@ -4,6 +4,7 @@
   <div align="center">
   <img src="https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/Pertama.jpg" alt="Deskripsi Gambar" width="1000"/>
    </div>
+
    
 2. Pengaturan Bahasa
    <div align="center">
@@ -11,11 +12,13 @@
    </div> 
    Pilih bahasa yang diinginkan untuk instalasi (misalnya, "Bahasa Indonesia" atau "English") dan klik "Continue".
 
+
 3.Koneksi Internet:
 Jika tersedia, hubungkan ke jaringan Wi-Fi atau kabel Ethernet. Koneksi internet diperlukan untuk mengunduh pembaruan selama instalasi, namun ini bisa dilewati dan dilakukan nanti.
 <div align="center"
 <img src="https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/keempat.jpg" alt="Deskripsi Gambar" width="1000"/>
 </div>
+
 
 4. Pilih tata letak keyboard yang sesuai. Jika ragu, pilih "English (US)". Klik "Continue".
   <div align="center">
@@ -23,12 +26,14 @@ Jika tersedia, hubungkan ke jaringan Wi-Fi atau kabel Ethernet. Koneksi internet
    </div> 
    Pilih bahasa yang diinginkan untuk instalasi (misalnya, "Bahasa Indonesia" atau "English") dan klik "Continue".
 
+
 5. Pilih jenis instalasi. Anda dapat memilih:
 -Normal Installation: Menyertakan angkat lunak standar seperti browser, editor teks, dll.
 -Minimal Installation: Hanya menyertakan perangkat lunak dasar seperti browser dan utilitas sistem.
 <div align="center">
    <img src=  "https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/kelima.jpg" alt="Deskripsi Gambar" width= "1000"/> 
    </div> 
+
 
 6. Pilih metode partisi:
 Erase disk and install Ubuntu: Menghapus semua data di disk dan menginstal Ubuntu sebagai satu-satunya sistem operasi.
@@ -40,11 +45,13 @@ Something else: Opsi lanjutan untuk mengatur partisi manual.
    </div> 
 
 
+
 7.	Pengaturan Zona Waktu:
  Pilih zona waktu Anda pada peta atau masukkan kota Anda. Klik "Continue".
  <div align="center">
    <img src=  "https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/kedua.jpg" alt="Deskripsi Gambar" width= "1000"/> 
    </div> 
+
 
 8.Pengaturan Pengguna:
 Masukkan nama Anda, nama komputer, nama pengguna, dan kata sandi. Opsi "Log in automatically" dapat dipilih jika Anda ingin langsung masuk tanpa memasukkan kata sandi setiap kali. Klik "Continue".
@@ -54,20 +61,27 @@ Selesai dan Restart:
 <div align="center">
    <img src=  "https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/ketujuh.jpg" alt="Deskripsi Gambar" width= "1000"/> 
    </div> 
+
+   
 9. Selanjutnya akan muncul tampilan seperti dibawah ini yang menandakan ubuntu sudah bisa dijalankan
  <div align="center">
    <img src=  "https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/VirtualBox_Ubuntu%2024.04_29_08_2024_15_42_19.png" alt="Deskripsi Gambar" width= "1000"/> 
    </div> 
+
+   
    ini merupakan tampilan gui dari ubuntu
   <div align="center">
    <img src=  "https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Instalasi_ubuntu/VirtualBox_Ubuntu%2024.04_29_08_2024_15_25_40.png" alt="Deskripsi Gambar" width= "1000"/> 
-   </div>  
+   </div> 
+
+   
 # Tugas 2
 •	Mengapa saat instalasi perlu dipilih “/” pada opsi Mount Point??
 karena pada opsi tersebut saat memilih”/” tersebut kita akan tahu installer di mana sistem operasi utama (termasuk kernel, sistem file, dan aplikasi inti) akan diinstal.
 Ini adalah lokasi di mana seluruh sistem Linux akan diatur dan berjalan. Ini juga  berarti  kita akan memilih "/" sebagai mount point untuk satu partisi menandakan
 bahwa seluruh struktur sistem file akan dimulai dari partisi tersebut dan tanpa root directory, sistem operasi tidak akan bisa berfungsi dengan baik karena tidak ada 
 struktur yang mengatur lokasi file dan direktori.
+
 
 •	Penjelasan tentang Ext4, Ext3, swap, ntfs, fat32, btrfs.
 
