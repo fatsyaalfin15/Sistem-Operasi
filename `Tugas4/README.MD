@@ -1,4 +1,11 @@
-Tugas 4 Sistem Operasi
+Nama: Alfin Patsya
+Nim: 09011282328117
+Kelas: SK3C
+
+
+                                             Tugas 4 Sistem Operasi
+
+
 
 1. ![1](https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Tugas4/1.png?raw=true)
    merupakan fungsi untuk melihat peralatan i/o karakter device pada sistem 
