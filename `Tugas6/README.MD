@@ -47,5 +47,4 @@
 23. ![6.3](https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Tugas6/6.3.jpg?raw=true)
 
 24. ![6.4](https://github.com/fatsyaalfin15/Sistem-Operasi/blob/main/%60Tugas6/6.4.jpg?raw=true)
- pada kode yang ditulis tersebut gambar dan angka  tidak sesuai posisinya tidak sejajar bagaimana agar nomor dengan tersebut menjadi sejajar dan juga rapi saat saya menulisnya di github pada file README.MD
  
